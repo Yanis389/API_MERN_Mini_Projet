@@ -1,4 +1,4 @@
-# Dépendances (trop lourd pour git)
+# Dépendances 
 node_modules/
 
 # Fichiers de log
