@@ -6,7 +6,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Compilation (si tu génères du JS à partir du TS)
+# Compilation 
 dist/
 out/
 
