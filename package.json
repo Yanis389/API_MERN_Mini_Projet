@@ -1,0 +1,12 @@
+{
+  "name": "tp-miniprojet-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings --loader ts-node/esm src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
